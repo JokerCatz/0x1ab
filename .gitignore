@@ -9,10 +9,10 @@ Thumbs.db
 .vscode/
 
 # Hugo generated/runtime
-/public/*
-/workspace/*
-/resources/*
-/workspace/*
+public/
+workspace/
+resources/
+workspace/
 
 # Hugo lock
 .hugo_build.lock
